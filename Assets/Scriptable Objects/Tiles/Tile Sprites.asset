@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b9de2e82a1aa554aa0fb516204f76a9, type: 3}
+  m_Name: Tile Sprites
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 21300000, guid: 2d7d17eb16b538b46850f802346f2766, type: 3}
+  - {fileID: 21300000, guid: 2c10aeaed242fcb4c8b4b42242a84554, type: 3}
+  - {fileID: 21300000, guid: b663bef7c2e08f94a9dd08396c6701be, type: 3}
+  - {fileID: 21300000, guid: 661ea102ff8507147b25fddf6c382e4f, type: 3}
+  - {fileID: 21300000, guid: 7965c73f1b3004e4bb8c217f9eac7f19, type: 3}
+  - {fileID: 21300000, guid: 517bbdae917a8854fb0fc24558545af7, type: 3}
+  - {fileID: 21300000, guid: e74bd844e12d22e41bc12319eb0e504c, type: 3}
+  - {fileID: 21300000, guid: 5b2c25cd2e9c0324884d748c8c293c3e, type: 3}
+  - {fileID: 21300000, guid: 8677ddc531fc2f74d9999ea04c87b12c, type: 3}
+  - {fileID: 21300000, guid: 278f4e286df46354fadfa499c668222b, type: 3}
+  - {fileID: 21300000, guid: 57818c0299f82434eacd7ce55f5f43cb, type: 3}
+  lockedTiles:
+  - {fileID: 21300000, guid: 0cb56591f3e7cc241bca97bbcc6cf5d9, type: 3}
+  - {fileID: 21300000, guid: d9de9d7a6282e9c4d89a2b88f6d1a047, type: 3}
+  - {fileID: 21300000, guid: 2777a6e6404bba04b8daed6b66526cd5, type: 3}
+  - {fileID: 21300000, guid: f02b31a28d6f73447b7d6d6ae862395b, type: 3}
+  - {fileID: 21300000, guid: 2cad470f6f4c5c3439f789c24b7f2d33, type: 3}
+  - {fileID: 21300000, guid: 660998e88b2036945a85e0a02edcf6cb, type: 3}
+  - {fileID: 21300000, guid: e2b2317c0f6db3c4c8ed146b997a2303, type: 3}
+  - {fileID: 21300000, guid: 71dce69da6ed57a4e98bc7e23a19003d, type: 3}
+  - {fileID: 21300000, guid: 1d1e93d25cb7d52479bb27f6e425e023, type: 3}
+  - {fileID: 21300000, guid: 8eb4e0724b5357047bd1488ecc851897, type: 3}
+  - {fileID: 21300000, guid: 1f4ba8bef3a1d3040a90654b3df77f35, type: 3}
